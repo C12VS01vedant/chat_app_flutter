@@ -1,6 +1,7 @@
 # chat_app
 
 A new Flutter project.
+This project basically uses a firebase to login ,chat with your contact ones .
 
 ## Getting Started
 
