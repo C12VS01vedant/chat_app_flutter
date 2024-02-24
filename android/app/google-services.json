@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13434491397",
+    "project_id": "chattting-application-733a1",
+    "storage_bucket": "chattting-application-733a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13434491397:android:53b5a2818c6665ff28826c",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY8ZfrVRCPjFWyD7ZuvlBRmpanINanKGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
